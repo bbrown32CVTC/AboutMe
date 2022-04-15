@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="about_family">About My Family</string>
+    <string name="about_artistry">About My Artistry</string>
+    <string name="about_me_label">About Me:</string>
+    <string name="about_artistry_label">About My Artistry:</string>
+    <string name="about_family_label">About My Family:</string>
+    <string name="about_me_text">Hi, my name is Bruce Brown. My family and friends call me by my
+        middle name, which is Adam. I enjoy spending time with friends and family, making music,
+        fishing, grilling, being creative, and playing video games. There’s a lot more to know
+        about me, so feel free to click on the pictures to get to know more about me!</string>
+    <string name="performance_pic">Performance Picture</string>
+    <string name="family_bonfire">Family at a bonfire</string>
+    <string name="artistry_label_text">Artistry</string>
+    <string name="family_label_text">Family</string>
+    <string name="about_me_label_text">About Me</string>
+</resources>
